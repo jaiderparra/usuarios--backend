@@ -1,7 +1,7 @@
 {
   "name": "backend-parcial",
   "version": "1.0.0",
-  "main": "sever.js",
+  "main": "server.js",
   "migrate": "node migrate.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
